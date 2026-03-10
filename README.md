@@ -46,21 +46,6 @@ Bu notebook'lar:
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
-
-| Kütüphane | Versiyon | Kullanım Amacı |
-|-----------|----------|----------------|
-| Python | ≥ 3.10 | Temel dil |
-| Scikit-Learn | ≥ 1.6.1 | Klasik ML algoritmaları |
-| TensorFlow / Keras | ≥ 2.x | Derin öğrenme |
-| PyTorch | ≥ 2.6.0 | Derin öğrenme (bölüm 17-18) |
-| NumPy | - | Sayısal işlemler |
-| Pandas | - | Veri analizi |
-| Matplotlib | - | Görselleştirme |
-| Gymnasium | - | RL ortamları |
-| Stable-Baselines3 | - | PPO, A2C vb. |
-
----
 
 ## 🚀 Nasıl Kullanılır?
 
