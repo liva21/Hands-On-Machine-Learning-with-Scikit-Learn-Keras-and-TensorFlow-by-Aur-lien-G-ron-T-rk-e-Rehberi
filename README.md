@@ -62,9 +62,6 @@ cd Hands-On-Machine-Learning-...
 jupyter notebook
 ```
 
-### Google Colab'da
-
-Her notebook'un en üstünde Colab ve Kaggle bağlantıları mevcuttur. Doğrudan tarayıcıda açıp çalıştırabilirsiniz — herhangi bir kurulum gerekmez.
 
 ---
 
